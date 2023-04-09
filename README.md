@@ -39,10 +39,10 @@ In the image above, Josh which is an admin member, logged into osTicket in order
 <img src=https://i.imgur.com/9kS5v9D.png/>
 </p>
 <p>
-Josh commented that he is currently working on resolving the ticket as soon as possible.Michael Peters another agent is also working with Josh as this is a critical issue and needs to be solved righ away.
+Josh commented that he is currently working on resolving the ticket as soon as possible.Michael Peters another agent is also working with Josh as this is a critical issue and needs to be solved right away.
 </p>
 <br />
 
 <img src=https://i.imgur.com/jGdNbDV.png/>
 
-After a couple of minutes the ticket was resolved and system is back up and running.
+After a couple of minutes, the ticket was then resolved and the system is back up and running.
